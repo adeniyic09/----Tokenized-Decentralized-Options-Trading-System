@@ -5,3 +5,5 @@ Q
 !contracts/asset-verification.clar,6/6/667dc25e84851f5b10b198998d693d6ddc7bc1f8
 T
 $contracts/collateral-management.clar,e/b/ebd25a6b95c263439674497e11db99ec1b77b36b
+N
+contracts/option-creation.clar,8/8/8828408ff14092d84fcfdfda4d8ab0d2754ef0f7
