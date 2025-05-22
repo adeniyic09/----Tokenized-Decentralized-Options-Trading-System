@@ -7,3 +7,5 @@ T
 $contracts/collateral-management.clar,e/b/ebd25a6b95c263439674497e11db99ec1b77b36b
 N
 contracts/option-creation.clar,8/8/8828408ff14092d84fcfdfda4d8ab0d2754ef0f7
+K
+contracts/price-oracle.clar,3/1/319b4abbef04cafcf7aaa7c78d70fc93a0c3566a
